@@ -1,0 +1,68 @@
+[
+    {   
+        "id": 1,
+        "name" : "Backpack",
+        "price": 56,
+        "qty": 1,
+        "tag":"#1 Sold Product",
+        "image": "backpack.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name" : "Shorts",
+        "price": 20,
+        "qty": 1,
+        "image": "shorts.jpg"
+        
+    },
+    {
+        "id": 3,
+        "name" : "Shirt",
+        "price": 15,
+        "qty": 1,
+        "image": "shirt.jpg"
+        
+    }, 
+    {
+        "id": 4,
+        "name" : "Pants",
+        "price": 30,
+        "qty": 1,
+        "image": "pants.jpg"
+        
+    },
+    {
+        "id": 5,
+        "name" : "Phone",
+        "price": 1100,
+        "qty": 1,
+        "tag":"#1 Sold Product",
+        "image": "phone.jpg"
+        
+    },  
+    {
+        "id": 6,
+        "name" : "Tablet",
+        "price": 700,
+        "qty": 1,
+        "image": "tablet.jpg"
+        
+    },  
+    {
+        "id": 7,
+        "name" : "Laptop",
+        "price": 1500,
+        "qty": 1,
+        "image": "laptop.jpg"
+        
+    },  
+    {
+        "id": 8,
+        "name" : "Shoes",
+        "price": 50,
+        "qty": 1,
+        "image": "shoes.jpg"
+        
+    }
+]
